@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\C\u8BED\u8A00\\C\u8BED\u8A00\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B36E4297-83D2-4D69-A983-F19FC40CA8D9}|\u8D2A\u5403\u86C7.vcxproj|E:\\C\u8BED\u8A00\\C\u8BED\u8A00\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B36E4297-83D2-4D69-A983-F19FC40CA8D9}|\u8D2A\u5403\u86C7.vcxproj|solutionrelative:snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C\u8BED\u8A00\\C\u8BED\u8A00\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\snake_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:snake_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B36E4297-83D2-4D69-A983-F19FC40CA8D9}|\u8D2A\u5403\u86C7.vcxproj|E:\\C\u8BED\u8A00\\C\u8BED\u8A00\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\snake_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B36E4297-83D2-4D69-A983-F19FC40CA8D9}|\u8D2A\u5403\u86C7.vcxproj|solutionrelative:snake_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C\u8BED\u8A00\\C\u8BED\u8A00\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "snake.h",
               "DocumentMoniker": "E:\\C\u8BED\u8A00\\C\u8BED\u8A00\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\snake.h",
               "RelativeDocumentMoniker": "snake.h",
               "ToolTip": "E:\\C\u8BED\u8A00\\C\u8BED\u8A00\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\snake.h",
               "RelativeToolTip": "snake.h",
-              "ViewState": "AgIAADIAAAAAAAAAAAAYwFwAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-03-10T13:39:51.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "snake_main.c",
               "DocumentMoniker": "E:\\C\u8BED\u8A00\\C\u8BED\u8A00\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\snake_main.c",
               "RelativeDocumentMoniker": "snake_main.c",
               "ToolTip": "E:\\C\u8BED\u8A00\\C\u8BED\u8A00\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\snake_main.c",
               "RelativeToolTip": "snake_main.c",
-              "ViewState": "AgIAAM4CAAAAAAAAAAAowN0CAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAOsDAAAAAAAAAAApwDoEAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-10T13:39:39.858Z",
               "EditorCaption": ""
