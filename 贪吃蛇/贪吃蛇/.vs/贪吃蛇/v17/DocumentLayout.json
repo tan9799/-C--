@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\C\u8BED\u8A00\\C\u8BED\u8A00\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C\u8BED\u8A00\\C\u8BED\u8A00\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\snake_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u8D2A\u5403\u86C7\\snake_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "snake_main.c",
-              "DocumentMoniker": "E:\\C\u8BED\u8A00\\C\u8BED\u8A00\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\snake_main.c",
-              "RelativeDocumentMoniker": "\u8D2A\u5403\u86C7\\snake_main.c",
-              "ToolTip": "E:\\C\u8BED\u8A00\\C\u8BED\u8A00\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\\u8D2A\u5403\u86C7\\snake_main.c",
-              "RelativeToolTip": "\u8D2A\u5403\u86C7\\snake_main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-10T14:39:39.162Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
