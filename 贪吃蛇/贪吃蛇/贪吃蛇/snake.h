@@ -211,5 +211,4 @@ void ShowRanking();             // 显示排行榜
 void SortRecords();             // 对记录排序
 void GetCurrentDateTime(char* buffer); // 获取当前日期时间
 void InputPlayerName(char* name); // 输入玩家姓名
-
 #endif
