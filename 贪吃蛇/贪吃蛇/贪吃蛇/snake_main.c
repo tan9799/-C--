@@ -1137,7 +1137,7 @@ void ApplyMagnetEffect() {
 int ApplySlowEffect(int originalSpeed) {
     if (playerStatus.slowActive) {
         // 减速因子：数值越大越慢
-        #define SLOW_FACTOR 4  // 4倍慢（可以调整这个值）
+#define SLOW_FACTOR 4  // 4倍慢（可以调整这个值）
 
         int slowedSpeed = originalSpeed * SLOW_FACTOR;
 
