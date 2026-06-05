@@ -1,0 +1,4 @@
+﻿  user.c
+E:\C语言\C语言\isolet\ToolManager优化版\user.c(86,5): warning C4013: “clearInputBuffer”未定义；假设外部返回 int
+E:\C语言\C语言\isolet\ToolManager优化版\user.c(94,12): warning C4013: “getValidInt”未定义；假设外部返回 int
+  ToolManager优化版.vcxproj -> E:\C语言\C语言\isolet\ToolManager优化版\x64\Debug\ToolManager优化版.exe
